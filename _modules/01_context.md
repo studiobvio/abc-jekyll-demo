@@ -3,7 +3,7 @@ title: Context
 ---
 
 Week 1
-: [Cultural & Historical Context of Site](/lecture-test)
+: [Cultural & Historical Context of Site](lecture-test.md)
 : [_Archive Exercise_](#)
 
 Week 2
