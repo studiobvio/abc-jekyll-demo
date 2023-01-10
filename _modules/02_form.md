@@ -12,4 +12,4 @@ Week 5
 : [Solution](#)
 
 Week 6
-: **Summative Assignment Due**{: .label .label-red } [Intro to Java](#)
+: **Summative Assignment Due**{: .label .label-red } [Evaluation Rubric](#)

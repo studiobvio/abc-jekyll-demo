@@ -7,4 +7,4 @@ photo: willMartin.jpg
 pronouns: He/Him
 ---
 
-[My Course](#){: .btn .btn-outline }
+[My Course](/calendar){: .btn .btn-outline }

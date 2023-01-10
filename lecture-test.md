@@ -43,4 +43,4 @@ nav_exclude: true
 
 {% include youtube.html id="YCK_LU0nSnc" %}
 
-I'll write it here!
+[Link to Lecture Slides](#)
