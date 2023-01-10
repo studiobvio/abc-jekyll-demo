@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Facilitators
+title: Contributors
 description: A listing of all the ABC School facilitators.
+nav_order: 3
 ---
 
 # ABC School Facilitators
