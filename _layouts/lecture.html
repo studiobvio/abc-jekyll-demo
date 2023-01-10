@@ -1,0 +1,18 @@
+<h2
+  class="fs-4 font-weight-bold text-uppercase"
+  id="{{ page.title | slugify }}"
+>
+  {{ page.title }}
+</h2>
+<img src="{{ page.course_image }}" alt="{{ page.course_image_alt }}" />
+<h3>Lecture Video</h3>
+<iframe
+  width="640"
+  height="480"
+  src="{{ page.video_link }}"
+  frameborder="0"
+  allow="autoplay; encrypted-media"
+  allowfullscreen
+>
+</iframe>
+<div>{{ content }}</div>

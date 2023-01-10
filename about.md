@@ -1,19 +1,9 @@
 ---
 layout: page
 title: About
+nav_order: 2
 description: >-
-    Course policies and information.
----
-
-# About
-{:.no_toc}
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
+  Course policies and information.
 ---
 
 ## About

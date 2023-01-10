@@ -2,9 +2,12 @@
 layout: page
 title: Syllabus
 description: Listing of course modules and topics.
+nav_order: 4
 ---
 
-# Syllabus
+# Architectural Design Studio Syllabus
+
+### Learning Outcomes
 
 {% for module in site.modules %}
 {{ module }}

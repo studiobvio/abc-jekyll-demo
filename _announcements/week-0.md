@@ -1,8 +1,8 @@
 ---
-title: Week 0 Announcement
+title: Happy New Year!
 week: 0
-date: 2019-04-01
+date: 2023-01-01
 ---
 
-Hello world!
+Let's do this! ABC (1)'23!
 {: .fs-5 }
